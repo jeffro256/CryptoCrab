@@ -1,0 +1,64 @@
+{
+	"usd_depth": "10000",
+	"fixer_key": "1d6f3acbdc9ab5ef4d6a2ec9166daaaf",
+	"pairs": {
+		"_comment": 
+			"Binance uses BCC as the ticker for Bitcoin Cash and IOTA as the ticker for IOTA",
+    	"GDAX": [
+    		"BTC/USD",
+			"BCH/USD",
+			"BCH/BTC",
+			"ETH/USD",
+			"ETH/BTC",
+			"LTC/USD",
+			"LTC/BTC"
+    	],
+    	"Binance": [
+    		"ETH/BTC",
+			"LTC/BTC",
+			"QTUM/ETH",
+			"EOS/ETH",
+			"BCH/BTC",
+			"MIOTA/BTC",
+			"MIOTA/ETH",
+			"EOS/BTC",
+			"ETC/ETH",
+			"ETC/BTC",
+			"DASH/BTC",
+			"DASH/ETH",
+			"TRX/BTC",
+			"TRX/ETH",
+			"XRP/BTC",
+			"XRP/ETH",
+			"XMR/BTC",
+			"XMR/ETH",
+			"BCH/ETH",
+			"ADA/BTC",
+			"ADA/ETH",
+			"XLM/BTC",
+			"XLM/ETH",
+			"LTC/ETH"
+    	],
+    	"Bithumb": [
+    		"BTC/KRW",
+			"XRP/KRW",
+			"ETH/KRW",
+			"BCH/KRW",
+			"LTC/KRW",
+			"DASH/KRW",
+			"XMR/KRW",
+			"EOS/KRW"
+    	],
+    	"Bitstamp": [
+    		"BTC/USD",
+    		"LTC/USD",
+    		"XRP/USD",
+    		"ETH/USD",
+    		"ETH/BTC",
+    		"BCH/USD",
+    		"XRP/BTC",
+    		"LTC/BTC",
+    		"BCH/BTC"
+    	]
+    } 
+}

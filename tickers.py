@@ -1,0 +1,27 @@
+""" A list of tickers for cryptocurrenies (and fiat cuurencies) """
+
+BITCOIN = BTC = 'BTC'
+ETHEREUM = ETH = 'ETH'
+BITCOIN_CASH = BCASH = BCH = 'BCH'
+RIPPLE = XRP = 'XRP'
+LITECOIN = LTC = 'LTC'
+IOTA = MIOTA = 'MIOTA'
+CARDANO = ADA = 'ADA'
+DASH = 'DASH'
+NEM = XEM = 'XEM'
+MONERO = XMR = 'XMR'
+EOS = 'EOS'
+STELLAR = XLM = 'XLM'
+TRON = TRX = 'TRX'
+BITCOIN_GOLD = BGOLD = BTG = 'BTG'
+ETHEREUM_CLASSIC = ETC = 'ETC'
+ZCASH = ZEC = 'ZEC'
+QTUM = 'QTUM'
+
+TETHER = USDT = 'USDT'
+BINANCE_COIN = BNB = 'BNB'
+
+US_DOLLAR = USD = 'USD'
+EURO = ECE = EUR = 'EUR'
+BRITISH_POUND = GBP = 'GBP'
+KOREAN_WON = KRW = 'KRW'
